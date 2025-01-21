@@ -32,3 +32,5 @@ Audio Quality: The accuracy of transcriptions depends significantly on the quali
 Language Support: While SpeechRecognition supports multiple languages through various APIs, Wav2Vec 2.0 models are primarily trained on specific languages. Ensure the chosen model aligns with the language of your audio input.
 
 Resource Requirements: Implementing Wav2Vec 2.0 requires substantial computational resources, including a compatible GPU, especially for real-time or large-scale applications.
+
+#OUTPUT : ![Image](https://github.com/user-attachments/assets/93810e3e-d8c1-4467-b4f0-328962346b8f)
