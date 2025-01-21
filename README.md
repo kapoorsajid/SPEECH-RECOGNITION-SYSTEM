@@ -33,4 +33,4 @@ Language Support: While SpeechRecognition supports multiple languages through va
 
 Resource Requirements: Implementing Wav2Vec 2.0 requires substantial computational resources, including a compatible GPU, especially for real-time or large-scale applications.
 
-#OUTPUT : ![Image](https://github.com/user-attachments/assets/93810e3e-d8c1-4467-b4f0-328962346b8f)
+#OUTPUT : ![Image](https://github.com/user-attachments/assets/37abc319-f1b1-4d45-b17d-2897f8868da4)
